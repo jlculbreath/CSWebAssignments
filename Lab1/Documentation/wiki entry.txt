@@ -1,0 +1,21 @@
+Lab 1
+
+For this lab, we were to create a github account. 
+Then create a repository in remote GitHub. 
+Then clone it to the local machine.
+Then create Source and Documentation directories locally.
+
+Take screenshots of remote repository creation and put them in the local documentation folder.
+Then sync to remote.
+
+Then we had to create a web page documenting the process to create a repository. 
+The file is in pure html, using standard tags. 
+The images are in a separate folder, called 'Images'.
+
+We were also to create a YouTube video showing how to create a repository and commit a file.
+This video should be added to the web page just created in an iframe with video controls.
+
+Then we were to sync the local and remote repositories.
+
+YouTube link:
+https://youtu.be/zgapMZdAkdg
